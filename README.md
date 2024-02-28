@@ -1,16 +1,39 @@
-### Hi there 👋
+# Vittorio Tauro 🚀
 
-<!--
-**VitriOSX/VitriOSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📅 **Date of Birth:** 15/10/1990  
+📍 **Location:** Milan, Italy  
+📧 **Email:** vittorio.tauro@shadapps.it  
+🔗 **LinkedIn:** [Vittorio Tauro](https://www.linkedin.com/in/vittoriotauro/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+
+Passionate entrepreneur, developer, and expert consultant in Full-Stack applications, with a specialization in IT technologies and agile mobile development. Graduated in Biomedical Engineering from Politecnico di Milano, co-author of numerous scientific publications in the field of Mobile Health (mHealth).
+
+## Experience
+
+- 💼 **CTO** at SMACE S.r.l.
+- 👨‍💻 Founder and **CEO** of Shadapps
+- 🛠️ Biomedical researcher and software development manager at Ab.Acus
+- 📱 Consultant and Android/iOS developer for Peoplelink Srl
+- 💡 IT consultant for numerous companies including Wishmaker, THINGK, KarmaHouse
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript (React, Node.js, Next.js), Python, PHP, Objective-C, Swift, Kotlin, Dart
+- **Frameworks and Technologies:** React, Next.js, Laravel, Flutter, Wordpress
+- **Databases:** MongoDB, MySQL, Oracle
+- **Protocols:** MQTT, WebSocket, RESTful
+- **Cloud Architecture:** DigitalOcean, AWS
+- **IDEs:** Xcode, Android Studio, IntelliJ IDEA, PyCharm, PhpStorm, WebStorm
+
+## Projects
+
+- 💻 Development of complete solutions (Web Frontend, Backend, Mobile App, and Database) for the eHealthLab of Politecnico di Milano
+- 🚀 Foundation of Shadapps for innovative application development
+- 📦 Participation in Squarefood in the Food Delivery sector and Swishup in the 3.0 fashion sector
+
+---
+
+For further details about my professional journey, feel free to visit my [LinkedIn](https://www.linkedin.com/in/vittoriotauro/).
