@@ -14,9 +14,9 @@ Passionate entrepreneur, developer, and expert consultant in Full-Stack applicat
 ## Experience
 
 - 💼 **CTO** at SMACE S.r.l.
-- 👨‍💻 Founder and **CEO** of Shadapps
-- 🛠️ Biomedical researcher and software development manager at Ab.Acus
-- 📱 Consultant and Android/iOS developer for Peoplelink Srl
+- 👨‍💻 Founder and **CEO** of [Shadapps][https://www.appsviluppo.com]
+- 🛠️ Biomedical researcher and software development manager at [Ab.Acus][https://www.ab-acus.com]
+- 📱 Consultant and Android/iOS developer for [Peoplelink Srl][https://www.peoplelink.it]
 - 💡 IT consultant for numerous companies including Wishmaker, THINGK, KarmaHouse
 
 ## Technical Skills
